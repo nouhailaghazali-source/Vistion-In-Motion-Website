@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "productions": "Productions",
+    "scenarios": "Scénarios",
+    "talents": "Talents",
+    "commerce": "Commerce",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "L'Excellence Cinématographique",
+    "title_part1": "Vision in",
+    "title_part2": "Motion",
+    "description": "Studio de production complet au Maroc: création de scénarios, recrutement de talents, production de films et distribution à l'échelle internationale.",
+    "cta_films": "Nos Films",
+    "cta_history": "Histoire"
+  },
+  "history": {
+    "genesis": "La Genèse",
+    "title_part1": "Vision in",
+    "title_part2": "Motion",
+    "p1": "Fondé en 2018, Vision in Motion est un studio de production intégré au Maroc, dédié à la professionnalisation de l'industrie cinématographique nationale et internationale.",
+    "p2": "De l'écriture de scénarios au recrutement de talents, nous offrons un écosystème complet permettant aux créateurs de concétriser leurs visions les plus ambitieuses sur la scène mondiale.",
+    "cta": "Rejoindre l'aventure"
+  },
+  "films": {
+    "title": "Nos Productions",
+    "subtitle": "L'excellence cinématographique marocaine",
+    "search": "Rechercher un film, réalisateur...",
+    "director": "Réalisateur",
+    "year": "Année",
+    "budget": "Budget",
+    "duration": "Durée",
+    "synopsis": "Synopsis",
+    "genre": "Genre",
+    "location": "Maroc",
+    "status": {
+      "en_production": "En Production",
+      "distribue": "Distribué",
+      "en_developpement": "En Développement",
+      "post_production": "Post-Production",
+      "en_ecriture": "En Écriture",
+      "soumis": "Soumis",
+      "approuve": "Approuvé",
+      "archive": "Archivé"
+    }
+  },
+  "scenarios": {
+    "title": "Scriptorium",
+    "subtitle": "L'atelier des histoires et des récits cinématographiques",
+    "search": "Titre, auteur, genre...",
+    "filter_all": "Tous les statuts",
+    "stats": {
+      "total": "Total Scénarios",
+      "writing": "En Écriture",
+      "approved": "Approuvés",
+      "production": "En Production"
+    },
+    "pitch": "Pitch de l'œuvre",
+    "author": "Auteur",
+    "type": "Type de Récit",
+    "status_prod": "Statut Production",
+    "prod_ready": "En production",
+    "prod_available": "Disponible",
+    "search_no_results": "Aucun scénario ne correspond à votre recherche"
+  },
+  "talents": {
+    "title": "Talents & Équipe",
+    "subtitle": "Les visages de nos productions",
+    "search": "Rechercher un talent...",
+    "filter_all": "Tous les rôles",
+    "bio": "Biographie",
+    "current_film": "Film Actuel",
+    "availability": "Disponibilité",
+    "available": "Immédiate",
+    "busy": "Occupé(e)",
+    "no_bio": "Aucune biographie disponible pour le moment.",
+    "no_project": "En recherche de projet",
+    "no_results": "Aucun talent trouvé pour cette recherche."
+  },
+  "commerce": {
+    "title": "Commerce & Distribution",
+    "subtitle": "Dashboard financier de Vision in Motion",
+    "search": "Rechercher pays, description...",
+    "filter_all": "Tous types",
+    "import": "Import",
+    "export": "Export",
+    "stats": {
+      "total_import": "Total Import",
+      "total_export": "Total Export",
+      "balance": "Net Balance"
+    },
+    "table": {
+      "desc": "Description & Pays",
+      "type": "Type",
+      "value": "Valeur",
+      "status": "Statut",
+      "date": "Date",
+      "completed": "COMPLÉTÉ",
+      "no_results": "Aucune opération ne correspond à vos critères"
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Parlons de votre prochain projet cinématographique",
+    "offices": "Nos Bureaux",
+    "address_title": "Adresse",
+    "address": "Lotissement Sahb, immeuble C, bureau 14 Av. Moulay Hassan I, Témara",
+    "email_title": "Email",
+    "email": "prodmotion597@gmail.com",
+    "phone_title": "Téléphone",
+    "phone": "0606-79-25-31",
+    "hours": "Horaires d'ouverture",
+    "send_message": "Envoyez un message",
+    "form": {
+      "name": "Nom complet",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "placeholder_name": "Votre nom",
+      "placeholder_subject": "Sujet de votre message",
+      "placeholder_message": "Comment pouvons-nous vous aider ?",
+      "success": "Message envoyé avec succès !",
+      "error": "Erreur lors de l'envoi du message."
+    },
+    "faq": {
+      "title": "Questions Fréquentes",
+      "subtitle": "Tout ce que vous devez savoir",
+      "q1": "Comment puis-je participer à un casting ?",
+      "a1": "Vous pouvez nous envoyer votre portfolio et votre CV artistique via le formulaire de contact en sélectionnant l'objet 'Casting', ou nous suivre sur nos réseaux sociaux pour les annonces de projets.",
+      "q2": "Acceptez-vous les scénarios externes ?",
+      "a2": "Oui, Vision in Motion est toujours à la recherche de nouvelles voix. Veuillez nous envoyer un synopsis court (pitch) via le formulaire. Si le concept nous intéresse, nous vous contacterons pour le script complet.",
+      "q3": "Proposez-vous des stages en production ?",
+      "a3": "Nous accueillons régulièrement des stagiaires passionnés dans les domaines de la réalisation, du montage et de la production. Envoyez-nous votre demande motivée."
+    },
+    "schedule": {
+      "week": "Lundi - Vendredi",
+      "saturday": "Samedi",
+      "sunday": "Dimanche: Fermé"
+    }
+  },
+  "featured": {
+    "title": "Dernières Productions",
+    "description": "Découvrez nos projets les plus ambitieux, portés par une vision artistique unique et une expertise technique de pointe.",
+    "cta": "Catalogue Complet"
+  },
+  "stats_section": {
+    "films": "Films Produits",
+    "scenarios": "Scénarios",
+    "talents": "Talents",
+    "awards": "Prix Gagnés",
+    "countries": "Pays",
+    "operations": "Opérations"
+  },
+  "services": {
+    "title": "Nos Services",
+    "production": {
+      "title": "Production Cinéma",
+      "desc": "De l'idée originale à la réalisation finale, nous gérons tout le processus."
+    },
+    "scenarios": {
+      "title": "Scénarios Originaux",
+      "desc": "Notre équipe de scénaristes donne vie à des histoires uniques et captivantes."
+    },
+    "talents": {
+      "title": "Talents & Casting",
+      "desc": "Nous recrutons les meilleurs talents nationaux et internationaux pour vos productions."
+    },
+    "distribution": {
+      "title": "Global Distribution",
+      "desc": "Distribution internationale et gestion stratégique des droits mondiaux."
+    },
+    "explore": "Explorer"
+  },
+  "footer": {
+    "description": "Studio de production cinématographique complet au Maroc. De l'idée originale à la distribution internationale.",
+    "navigation": "Navigation",
+    "rights": "TOUS DROITS RÉSERVÉS."
+  },
+  "common": {
+    "details": "Voir plus",
+    "evaluate": "Évaluer",
+    "feedback": "Soumettre un feedback",
+    "loading": "Chargement...",
+    "search": "Rechercher...",
+    "min": "min",
+    "feedback_subtitle": "Partagez votre avis sur ce projet"
+  }
+}

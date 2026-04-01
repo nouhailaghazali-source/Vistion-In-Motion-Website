@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "home": "Home",
+    "productions": "Productions",
+    "scenarios": "Scripts",
+    "talents": "Talents",
+    "commerce": "Commerce",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Cinematic Excellence",
+    "title_part1": "Vision in",
+    "title_part2": "Motion",
+    "description": "Integrated production studio in Morocco: scriptwriting, talent recruitment, film production, and international distribution.",
+    "cta_films": "Our Films",
+    "cta_history": "History"
+  },
+  "history": {
+    "genesis": "The Genesis",
+    "title_part1": "Vision in",
+    "title_part2": "Motion",
+    "p1": "Founded in 2018, Vision in Motion is an integrated production studio in Morocco, dedicated to the professionalization of the national and international film industry.",
+    "p2": "From scriptwriting to talent recruitment, we offer a complete ecosystem allowing creators to realize their most ambitious visions on the global stage.",
+    "cta": "Join the Adventure"
+  },
+  "films": {
+    "title": "Our Productions",
+    "subtitle": "Moroccan cinematic excellence",
+    "search": "Search for a film, director...",
+    "director": "Director",
+    "year": "Year",
+    "budget": "Budget",
+    "duration": "Duration",
+    "synopsis": "Synopsis",
+    "genre": "Genre",
+    "location": "Morocco",
+    "status": {
+      "en_production": "In Production",
+      "distribue": "Distributed",
+      "en_developpement": "In Development",
+      "post_production": "Post-Production",
+      "en_ecriture": "In Writing",
+      "soumis": "Submitted",
+      "approuve": "Approved",
+      "archive": "Archived"
+    }
+  },
+  "scenarios": {
+    "title": "Scriptorium",
+    "subtitle": "The workshop of stories and cinematic narratives",
+    "search": "Title, author, genre...",
+    "filter_all": "All Statuses",
+    "stats": {
+      "total": "Total Scripts",
+      "writing": "In Writing",
+      "approved": "Approved",
+      "production": "In Production"
+    },
+    "pitch": "Work Pitch",
+    "author": "Author",
+    "type": "Narrative Type",
+    "status_prod": "Production Status",
+    "prod_ready": "In production",
+    "prod_available": "Available",
+    "search_no_results": "No script matches your search"
+  },
+  "talents": {
+    "title": "Talents & Team",
+    "subtitle": "The faces of our productions",
+    "search": "Search for a talent...",
+    "filter_all": "All Roles",
+    "bio": "Biography",
+    "current_film": "Current Film",
+    "availability": "Availability",
+    "available": "Immediate",
+    "busy": "Busy",
+    "no_bio": "No biography available at the moment.",
+    "no_project": "Looking for project",
+    "no_results": "No talent found for this search."
+  },
+  "commerce": {
+    "title": "Commerce & Distribution",
+    "subtitle": "Vision in Motion financial dashboard",
+    "search": "Search country, description...",
+    "filter_all": "All Types",
+    "import": "Import",
+    "export": "Export",
+    "stats": {
+      "total_import": "Total Import",
+      "total_export": "Total Export",
+      "balance": "Net Balance"
+    },
+    "table": {
+      "desc": "Description & Country",
+      "type": "Type",
+      "value": "Value",
+      "status": "Status",
+      "date": "Date",
+      "completed": "COMPLETED",
+      "no_results": "No operations match your criteria"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let's talk about your next film project",
+    "offices": "Our Offices",
+    "address_title": "Address",
+    "address": "Lotissement Sahb, Building C, Office 14, Moulay Hassan I Av., Temara",
+    "email_title": "Email",
+    "email": "prodmotion597@gmail.com",
+    "phone_title": "Phone",
+    "phone": "0606-79-25-31",
+    "hours": "Opening Hours",
+    "send_message": "Send a Message",
+    "form": {
+      "name": "Full Name",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "placeholder_name": "Your name",
+      "placeholder_subject": "Subject of your message",
+      "placeholder_message": "How can we help you?",
+      "success": "Message sent successfully!",
+      "error": "Error sending message."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know",
+      "q1": "How can I participate in a casting?",
+      "a1": "You can send us your portfolio and artistic CV via the contact form by selecting the 'Casting' subject, or follow us on our social media for project announcements.",
+      "q2": "Do you accept external scripts?",
+      "a2": "Yes, Vision in Motion is always looking for new voices. Please send us a short synopsis (pitch) via the form. If the concept interests us, we will contact you for the full script.",
+      "q3": "Do you offer production internships?",
+      "a3": "We regularly welcome passionate interns in the fields of directing, editing, and production. Send us your motivated application."
+    },
+    "schedule": {
+      "week": "Monday - Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday: Closed"
+    }
+  },
+  "featured": {
+    "title": "Latest Productions",
+    "description": "Discover our most ambitious projects, driven by a unique artistic vision and cutting-edge technical expertise.",
+    "cta": "Full Catalog"
+  },
+  "stats_section": {
+    "films": "Films Produced",
+    "scenarios": "Scripts",
+    "talents": "Talents",
+    "awards": "Awards Won",
+    "countries": "Countries",
+    "operations": "Operations"
+  },
+  "services": {
+    "title": "Our Services",
+    "production": {
+      "title": "Film Production",
+      "desc": "From the original idea to the final direction, we handle the entire process."
+    },
+    "scenarios": {
+      "title": "Original Scripts",
+      "desc": "Our team of screenwriters brings unique and captivating stories to life."
+    },
+    "talents": {
+      "title": "Talents & Casting",
+      "desc": "We recruit the best national and international talent for your productions."
+    },
+    "distribution": {
+      "title": "Global Distribution",
+      "desc": "International distribution and strategic global rights management."
+    },
+    "explore": "Explore"
+  },
+  "footer": {
+    "description": "Integrated film production studio in Morocco. From the original idea to international distribution.",
+    "navigation": "Navigation",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "details": "View more",
+    "evaluate": "Evaluate",
+    "feedback": "Submit Feedback",
+    "loading": "Loading...",
+    "search": "Search...",
+    "min": "min",
+    "feedback_subtitle": "Share your thoughts on this project"
+  }
+}
